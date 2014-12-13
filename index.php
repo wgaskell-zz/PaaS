@@ -27,7 +27,7 @@
 </header>
 <section role="banner">
   <hgroup>
-    <h1>Welcome to Wayne's Snowboarding Story Board - see if  </h1>
+    <h1>Welcome to Wayne's Snowboarding Story Board - see if some  </h1>
     <h2>A website of the places visited</h2>
   </hgroup>
   <article role="main" class="clearfix">
