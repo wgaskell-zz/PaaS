@@ -52,16 +52,16 @@
 	
 <div id="slideshow">
     <ul class="slides">
-        <li><img src="assets/images/slide1.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide2.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide3.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide4.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide5.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide6.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide7.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide8.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide9.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide10.jpg" width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/3mvdp93iv/slide1.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/xhcbr9tzr/slide2.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/idq5n67mf/slide3.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/g7vuso45z/slide4.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/7bl2oqdjr/slide5.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/680ycrswn/slide6.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/t38ft68t3/slide7.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/telas6zvb/slide8.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/st0x9tu6v/slide9.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/hj87evp5j/slide10.jpg' width="620" height="320"/></li>
     </ul>
     <span class="arrow previous"></span>
     <span class="arrow next"></span>
@@ -76,45 +76,45 @@
 			
 	<div id="slideshow" class="rs-slideshow">
 		<div class="slide-container">
-		<img src="assets/images/show1.jpg" alt="The first image in a slideshow demo." title="In The Distance" />
+		<img src='http://s5.postimg.org/jz0u18sgn/show1.jpg' alt="The first image in a slideshow demo." title="In The Distance" />
 		<span class="slide-caption">In The Distance</span>
 		</div>
 		<ol class="slides">
 
                         <li>
-                                <a href="assets/images/show2.jpg"
+                                <a src='http://s5.postimg.org/j4eaf7klz/show2.jpg'
                                 title="In The Distance">In The Distance</a>
                         </li>
                         <li>
-                                <a href="assets/images/show3.jpg"
+                                <a src='http://s5.postimg.org/3uef80p3r/show3.jpg'
                                 title="A View">A View</a>
                         </li>
                         <li>
-                                <a href="assets/images/show4.jpg"
+                                <a src='http://s5.postimg.org/ib1omlel3/show4.jpg'
                                 title="The Pistes">The Pistes</a>
                         </li>
                         <li>
-                                <a href="assets/images/show5.jpg"
+                                <a src='http://s5.postimg.org/dzd2xl7o7/show5.jpg'
                                 title="Nothing But Trees">Nothing But Trees</a>
                         </li>
                         <li>
-                                <a href="assets/images/show6.jpg"
+                                <a src='http://s5.postimg.org/nxy1k2h3r/show6.jpg'
                                 title="White Wash">White Wash</a>
                         </li>
                         <li>
-                                <a href="assets/images/show7.jpg"
+                                <a src='http://s5.postimg.org/sz5flfok7/show7.jpg'
                                 title="Snow Covered">Snow Covered</a>
                         </li>
                         <li>
-                                <a href="assets/images/show8.jpg"
+                                <a src='http://s5.postimg.org/j5stmdbtj/show8.jpg'
                                 title="Mountain Peak">Mountain Peak</a>
                         </li>
                         <li>
-                                <a href="assets/images/show9.jpg"
+                                <a src='http://s5.postimg.org/3o5bio5cn/show9.jpg'
                                 title="Far And Beyond">Far And Beyond</a>
                         </li>
                         <li>
-                                <a href="assets/images/show10.jpg"
+                                <a src='http://s5.postimg.org/y31andp1z/show10.jpg'
                                 title="A Cold Day">A Cold Day</a>
                         </li>
 
