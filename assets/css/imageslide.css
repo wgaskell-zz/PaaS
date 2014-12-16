@@ -51,7 +51,7 @@
 	height:86px;
 	width:60px;
 	position:absolute;
-	background:url(src='http://s5.postimg.org/qcgqd0ikz/arrow.png') no-repeat;
+	background:url('http://s5.postimg.org/qcgqd0ikz/arrow.png') no-repeat;
 	top:50%;
 	margin-top:-43px;
 	cursor:pointer;
