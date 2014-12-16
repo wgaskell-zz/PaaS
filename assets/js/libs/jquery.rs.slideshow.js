@@ -1,5 +1,5 @@
 /**
-*	Really Simple™ Slideshow jQuery plug-in 1.4.12
+*	Really Simpleâ„¢ Slideshow jQuery plug-in 1.4.12
 *	---------------------------------------------------------
 *	Load slideshow images dynamically, instead of all at once
 *	---------------------------------------------------------
@@ -1158,4 +1158,3 @@
   
   
 })( jQuery );
-
