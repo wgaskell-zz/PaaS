@@ -82,15 +82,15 @@
 		<ol class="slides">
 
                         <li>
-                                <a src='http://s5.postimg.org/j4eaf7klz/show2.jpg'
+                                <a href='http://s5.postimg.org/j4eaf7klz/show2.jpg'
                                 title="In The Distance">In The Distance</a>
                         </li>
                         <li>
-                                <a src='http://s5.postimg.org/3uef80p3r/show3.jpg'
+                                <a href='http://s5.postimg.org/3uef80p3r/show3.jpg'
                                 title="A View">A View</a>
                         </li>
                         <li>
-                                <a src='http://s5.postimg.org/ib1omlel3/show4.jpg'
+                                <a href='http://s5.postimg.org/ib1omlel3/show4.jpg'
                                 title="The Pistes">The Pistes</a>
                         </li>
                         <li>
