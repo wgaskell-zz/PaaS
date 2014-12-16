@@ -52,9 +52,9 @@
 	
 <div id="slideshow">
     <ul class="slides">
-        <li><img href='http://s5.postimg.org/3mvdp93iv/slide1.jpg' width="620" height="320"/></li>
-        <li><img href='http://s5.postimg.org/xhcbr9tzr/slide2.jpg' width="620" height="320"/></li>
-        <li><img href='http://s5.postimg.org/idq5n67mf/slide3.jpg' width="620" height="320"/></li>
+        <li><img src="http://s5.postimg.org/3mvdp93iv/slide1.jpg" width="620" height="320"/></li>
+        <li><img src="http://s5.postimg.org/xhcbr9tzr/slide2.jpg" width="620" height="320"/></li>
+        <li><img src="http://s5.postimg.org/idq5n67mf/slide3.jpg" width="620" height="320"/></li>
         <li><img src='http://s5.postimg.org/g7vuso45z/slide4.jpg' width="620" height="320"/></li>
         <li><img src='http://s5.postimg.org/7bl2oqdjr/slide5.jpg' width="620" height="320"/></li>
         <li><img src='http://s5.postimg.org/680ycrswn/slide6.jpg' width="620" height="320"/></li>
