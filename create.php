@@ -18,7 +18,7 @@
 <head>
 <style>
 body {
-    background-image: url("assets/images/snow.jpg");
+    background-image: url(src='http://s5.postimg.org/s28741rtj/snow.jpg');
 }
 </style>
 </head>
