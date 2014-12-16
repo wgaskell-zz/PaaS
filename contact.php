@@ -40,7 +40,7 @@
         <span class="icon">M</span>: <strong><a href="#">w.g@wlv.ac.uk</a></p></strong>
       <p>&nbsp;</p>
 	      </div>
-    <div class="g-map"><img src="assets/images/map.jpg" alt=""></div>
+    <div class="g-map"><img src='http://s5.postimg.org/lkbifbdav/map.jpg' alt=""></div>
   </article>
 </section>
 <!-- // banner ends -->
