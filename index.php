@@ -55,7 +55,7 @@
       </figure>
     </article>
     <article>
-      <figure> <img src="assets/images/light.jpg" alt="" class="alt-col">
+      <figure> <img src='http://s5.postimg.org/6kj5rgwev/light.jpg' alt="" class="alt-col">
         <figcaption>
           <h3>Borovets</h3>
           <p>A journey into Bulgeria, the bigest resort in Bulgeria set it beautiful woodland area.</p>
@@ -63,7 +63,7 @@
       </figure>
     </article>
     <article>
-      <figure> <img src="assets/images/wayne.jpg" alt="">
+      <figure> <img src='http://s5.postimg.org/pngbjmbkn/wayne.jpg' alt="">
         <figcaption>
           <h3>Andorra</h3>
           <p>The landlocked mountainous region on Pas De La Casa.</p>
@@ -71,7 +71,7 @@
       </figure>
     </article>
     <article>
-      <figure> <img src="assets/images/alpchalet.jpg" alt="" class="alt-col">
+      <figure> <img src='http://s5.postimg.org/ke2x2rzmf/alpchalet.jpg' alt="" class="alt-col">
         <figcaption>
           <h3>Alp Duez</h3>
           <p>An exploration in the French Alps, and one of the longest black runs in Europe</p>
