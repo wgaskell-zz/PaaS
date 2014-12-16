@@ -47,7 +47,7 @@
 <section class="container">
   <div class="columns">
     <article>
-      <figure> <img src="assets/images/trees.jpg" alt="">
+      <figure> <img src='http://s5.postimg.org/x5zgs92xj/trees.jpg' alt="">
         <figcaption>
           <h3>Morzine</h3>
           <p>Visited in 2012, Panoramic mountain views, linked to the Avoriaz resort.</p>
