@@ -52,16 +52,16 @@
 	
 <div id="slideshow">
     <ul class="slides">
-        <li><img src="assets/images/slide1.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide2.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide3.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide4.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide5.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide6.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide7.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide8.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide9.jpg" width="620" height="320"/></li>
-        <li><img src="assets/images/slide10.jpg" width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/3mvdp93iv/slide1.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/xhcbr9tzr/slide2.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/idq5n67mf/slide3.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/g7vuso45z/slide4.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/7bl2oqdjr/slide5.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/680ycrswn/slide6.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/t38ft68t3/slide7.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/telas6zvb/slide8.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/st0x9tu6v/slide9.jpg' width="620" height="320"/></li>
+        <li><img src='http://s5.postimg.org/hj87evp5j/slide10.jpg' width="620" height="320"/></li>
     </ul>
     <span class="arrow previous"></span>
     <span class="arrow next"></span>
