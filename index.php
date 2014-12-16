@@ -40,7 +40,7 @@
 		<li>Meet the gang.</li>
       </ul>
       <a href="thegang.php" class="button left">Enter <span class="icon">:</span></a> </div>
-    <aside role="complementary"> <a href="#"><img src="assets/images/heli.jpg" alt=""></a> </aside>
+    <aside role="complementary"> <a href="#"><img src='http://s5.postimg.org/dz8hjuiaf/heli.jpg' alt=""></a> </aside>
   </article>
 </section>
 <!-- // banner ends -->
