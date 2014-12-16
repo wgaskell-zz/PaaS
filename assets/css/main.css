@@ -75,7 +75,7 @@ span.icon {
   text-transform: none !important;
 }
 header {
-  background: url(../images/snow.jpg) transparent;
+  background: url('http://s5.postimg.org/s28741rtj/snow.jpg') transparent;
   padding: 15px 0 0;
 }
 #logo {
@@ -130,7 +130,7 @@ ul[role=navigation] li a:focus,
 ul[role=navigation] li a:active,
 ul[role=navigation] li a.activePage {
   border-color: #10253d;
-  background: url(../images/blackwood.jpg);
+  background: url('http://s5.postimg.org/4h8qjswlz/leather_pattern.jpg');
   color: White;
   -moz-box-shadow: rgba(255, 255, 255, 0.8) 0 1px 0;
   -webkit-box-shadow: rgba(255, 255, 255, 0.8) 0 1px 0;
@@ -141,11 +141,11 @@ ul[role=navigation] li a .icon {
   font-size: 17px;
 }
 section[role=banner] {
-  background: url(../images/snow.jpg);
+  background: url('http://s5.postimg.org/s28741rtj/snow.jpg');
   border-bottom: 1px solid #dfe9f2;
 }
 section[role=banner] hgroup {
-  background: url(../images/blackwood.jpg);
+  background: url('http://s5.postimg.org/4h8qjswlz/leather_pattern.jpg');
   -moz-box-shadow: inset rgba(0, 0, 0, 0.1) 0 10px 10px, rgba(255, 255, 255, 0.7) 0 10px 10px;
   -webkit-box-shadow: inset rgba(0, 0, 0, 0.1) 0 10px 10px, rgba(255, 255, 255, 0.7) 0 10px 10px;
   box-shadow: inset rgba(0, 0, 0, 0.1) 0 10px 10px, rgba(255, 255, 255, 0.7) 0 10px 10px;
@@ -549,7 +549,7 @@ section[role="banner"] article[role="main"].contact .post {
   width: 35%;
 }
 footer[role=contentinfo] {
-  background: url(../images/blackwood.jpg);
+  background: url('http://s5.postimg.org/4h8qjswlz/leather_pattern.jpg');
   border-top: 4px dotted #444;
   -moz-box-shadow: inset rgba(0, 0, 0, 0.1) 0 10px 10px, rgba(255, 255, 255, 0.7) 0 10px 10px;
   -webkit-box-shadow: inset rgba(0, 0, 0, 0.1) 0 10px 10px, rgba(255, 255, 255, 0.7) 0 10px 10px;
@@ -583,7 +583,7 @@ footer[role=contentinfo] p .left {
     padding-top: 0;
   }
   #logo {
-    background: url(../images/snow.jpg) transparent;
+    background: url('http://s5.postimg.org/s28741rtj/snow.jpg') transparent;
     border-bottom: 1px solid #ccc;
     margin: 0 0 20px;
     padding: 10px 5%;
