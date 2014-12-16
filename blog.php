@@ -63,11 +63,11 @@
 	
 <figure>
 <br><strong>Nightlife?</strong><br>
-    <img src="assets/images/nightlife.jpg" alt="Nightlife"/><br>
+    <img src='http://s5.postimg.org/extfzvl03/nightlife.jpg' alt="Nightlife"/><br>
 <br><strong>Food?</strong><br>
-    <img src="assets/images/food.jpg" alt="Food"/><br>
+    <img src='http://s5.postimg.org/j5jmuvx1v/food.jpg' alt="Food"/><br>
 <br><strong>Equipment?</strong><br>
-    <img src="assets/images/equipment.jpg" alt="Equipment"/><br>
+    <img src='http://s5.postimg.org/cqg0kh0yb/equipment.jpg' alt="Equipment"/><br>
 <p>
 </figure>
 
