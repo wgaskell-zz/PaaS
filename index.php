@@ -27,7 +27,7 @@
 </header>
 <section role="banner">
   <hgroup>
-    <h1>Welcome to Wayne Snowboarding Story Board</h1>
+    <h1>Welcome to Katies Snowboarding Story Board</h1>
     <h2>A website of the places visited</h2>
   </hgroup>
   <article role="main" class="clearfix">
